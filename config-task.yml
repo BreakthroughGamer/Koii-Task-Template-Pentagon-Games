@@ -11,7 +11,7 @@ description: "Please visit https://pentagon.games/ and create an account. Then u
 repositoryUrl: 'https://github.com/BreakthroughGamer/Koii-Task-Template-Pentagon-Games' # Replace with your own repo URL
 
 # Image URL: (Required) Will be displayed in desktop node
-imageUrl: ''
+imageUrl: 'https://github.com/BreakthroughGamer/Koii-Task-Template-Pentagon-Games/blob/master/assets/task_image_001.png?raw=true'
 
 # Info URL: (Required) Will be displayed in desktop node
 infoUrl: 'https://www.koii.network/ocean'

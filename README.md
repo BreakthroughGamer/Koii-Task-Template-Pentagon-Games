@@ -1,4 +1,4 @@
-# Koii Task Template
+# Pentagon Games' Koii Task Template
 
 ## Development Guide
 
